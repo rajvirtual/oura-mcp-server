@@ -73,6 +73,16 @@ Claude can create visual charts to help you understand your health data. Simply 
 - "Make a bar graph comparing my activity scores by day of week"
 - "Plot my resting heart rate against stress levels"
 
+
+
+![Sleep Analysis](SleepAnalysis.png)
+
+
+![Sleep Composition](SleepComp.png)
+
+
+![HRV](HRV.png)
+
 ## Data Handling Guidelines
 
 This server follows these key guidelines:
